@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  binary
+//  binaire
 //
-//  Created by HKRdz Dev on 27/02/2019.
+//  Created by HKRdz Dev on 21/02/2019.
 //  Copyright © 2019 HKRdz Dev. All rights reserved.
 //
 
